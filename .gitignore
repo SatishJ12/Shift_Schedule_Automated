@@ -1,0 +1,9 @@
+# Your live/working workbook is excluded on purpose - it may contain real
+# names, contact details, or a filled-in Calendar/roster once you use it.
+# Only the blank template and source files are meant to be public.
+*.xlsm
+~$*
+*.xlsx.bak
+.DS_Store
+Thumbs.db
+Shift_Roster_Automation_Runbook.docx
